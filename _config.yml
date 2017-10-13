@@ -1,1 +1,10 @@
-theme: jekyll-theme-time-machine
+markdown: kramdown
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
